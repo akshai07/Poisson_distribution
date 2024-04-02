@@ -1,6 +1,6 @@
-## Name: POZHILAN V D
-## Reg no:212223240118
-# Fitting Poisson  distribution
+                                                                 Name: POZHILAN V D
+                                                                 Reg no:212223240118
+# EX-2:Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
