@@ -1,5 +1,5 @@
-                                                                 Name: POZHILAN V D
-                                                                 Reg no:212223240118
+                                                             Name: Akshaikhanna.D
+                                                             Reg no:212223040010
 # EX-2:Fitting Poisson  distribution
 # Aim : 
 
